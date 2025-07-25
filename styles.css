@@ -1,0 +1,12 @@
+#container {
+  /* border-width: 5px;
+  border-color: aquamarine;
+  height: auto;
+  width: auto; */
+  /* padding: 10px 10px; */
+  height: 496px;
+  width: 480px;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+}
